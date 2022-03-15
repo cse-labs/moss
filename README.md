@@ -16,6 +16,7 @@ Microsoft OSS Portal <https://repos.opensource.microsoft.com/>
   - Click on the `Join button`
     - You may get a second screen and have to click `Join` again
 - Repeat for the `CSE-Labs` organization
+  - Note that the 'CSE-Labs' org is under the `Show community organizations button`
 - Repeat for any other organizations you want to join
 
 You should get emails for the new organization(s) you joined. The GitHub bot should automatically add you to the orgs. To verify:
